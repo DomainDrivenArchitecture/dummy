@@ -13,7 +13,12 @@
       <url>https://www.apache.org/licenses/LICENSE-2.0.html</url>
     </license>
   </licenses>
-  <scm/>
+  <scm>
+    <url>https://github.com/DomainDrivenArchitecture/dummy</url>
+    <connection>scm:git:git://github.com/DomainDrivenArchitecture/dummy.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/DomainDrivenArchitecture/dummy.git</developerConnection>
+    <tag>bbc959ea0bb47b2b960781009ca73b0106b2d95d</tag>
+  </scm>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <testSourceDirectory>test</testSourceDirectory>
